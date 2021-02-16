@@ -2,7 +2,6 @@
 <p></p>
 <h3>Chat chat chat chat chat!</h3>
 <style>
-<style>
 body {
   background-image: url('https://wallpaperaccess.com/full/2616892.jpg');
 }
