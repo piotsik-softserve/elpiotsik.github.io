@@ -1,8 +1,4 @@
-<style>
-body {
-  background-image: url('https://wallpaperaccess.com/full/2616892.jpg');
-}
-</style>
+
 <body>
 <h1>Hi!</h1>
 <p></p>
@@ -12,4 +8,3 @@ body {
 <!-- EyeLevel Chat --> <script>!function(){if(window.eyelevel)return;window.eyelevel = [];window.eyusername = 'e80084b3-6732-4d06-90db-fe9381ba9170';window.eyelevel.push(['init', { username: window.eyusername, origin: 'web', env: 'dev' }]);var t=document.createElement('script');t.type='text/javascript',t.async=!0,t.src='https://cdn.eyelevel.ai/chat/eyelevel.js?v=1.3';var e=document.getElementsByTagName('script')[0];e.parentNode.insertBefore(t,e)}();</script> <!-- End EyeLevel Chat -->
 </body>
 
-<img src="https://upload.eyelevel.ai/logo/10000000212.svg" />
